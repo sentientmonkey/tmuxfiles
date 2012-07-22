@@ -1,0 +1,4 @@
+= Installation Instructions
+
+  $ git clone git://github.com/sentientmonkey/tmuxfiles.git ~/.tmux
+  $ ln -s ~/.tmux/tmux.conf ~/.tmux.conf
